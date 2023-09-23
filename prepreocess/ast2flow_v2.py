@@ -1,8 +1,8 @@
 import json
 import re
 import subprocess
-import solcx
 from solcx import compile_standard
+import solcx
 import os
 import signal
 import time

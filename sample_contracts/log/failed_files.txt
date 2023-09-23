@@ -27,3 +27,13 @@
 ../sample_contracts/reentrant_contracts/0xa4c63e8b05df7db85db0ad37f8064f92338a2422.sol
 ../sample_contracts/reentrant_contracts/0x039963c07e62eb7af39eeeb871cb2de9cbc65d78.sol
 ../sample_contracts/reentrant_contracts/0x0459ebad0ba09901fda1441ee72e6cb664257f61.sol
+../sample_contracts/test_sol/test2.sol
+../sample_contracts/test_sol/test.sol
+../sample_contracts/test_sol/test2.sol
+../sample_contracts/test_sol/test.sol
+../sample_contracts/test_sol/test2.sol
+../sample_contracts/test_sol/test.sol
+../sample_contracts/test_sol/test2.sol
+../sample_contracts/test_sol/test.sol
+../sample_contracts/test_sol/test2.sol
+../sample_contracts/test_sol/test.sol

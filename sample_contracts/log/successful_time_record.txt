@@ -64,3 +64,5 @@
 ../sample_contracts/reentrant_contracts/0x4c67b3db1d4474c0ebb2db8bec4e345526d9e2fd.sol - 0.48 seconds
 ../sample_contracts/test_sol/test2.sol - 0.54 seconds
 ../sample_contracts/test_sol/test.sol - 0.46 seconds
+../sample_contracts/test_sol/test2.sol - 0.49 seconds
+../sample_contracts/test_sol/test.sol - 0.47 seconds
